@@ -96,6 +96,14 @@ Me chamo Daniel Pego, tenho 27 anos e sou natural de Belo Horizonte. Sou formado
 />  
 <img 
     align="left"
+    alt="Spring"
+    title="Spring"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left"
     alt="C#"
     title="C#"
     width="30px"
