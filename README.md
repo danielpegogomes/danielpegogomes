@@ -2,7 +2,7 @@
 
 <p>
   <strong>Desenvolvedor Full Stack &amp; Product Designer</strong> · do Figma ao deploy<br>
-  Belo Horizonte, MG · Front-end atualmente na <a href="https://www.tradearena.app">Trade Arena</a>
+  Belo Horizonte, MG · Atualmente na <a href="https://www.tradearena.app">Trade Arena</a>
 </p>
 
 <p>
