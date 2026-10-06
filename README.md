@@ -23,14 +23,14 @@ Uso agentes de IA no dia a dia: **Claude Code, Codex e Cursor** no código, **Fi
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,nodejs,java,spring,lua,postgres,mysql,supabase,docker,gcp,figma,ps,ai&perline=16" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,nodejs,java,spring,lua,postgres,mysql,supabase,docker,aws,gcp,figma,ps,ai&perline=17" alt="Stack" />
 </p>
 
 | | |
 |---|---|
 | **Front-end** | Angular · React · Next.js · TypeScript · RxJS/Signals · SCSS · Tailwind |
 | **Back-end** | Java/Spring Boot · Node.js · APIs REST · Lua · PHP |
-| **Dados & Infra** | PostgreSQL · MySQL · Supabase · Docker · Google Cloud · Vercel · CI/CD |
+| **Dados & Infra** | PostgreSQL · MySQL · Supabase · Docker · AWS · Google Cloud · Vercel · CI/CD |
 | **Design** | Figma · Design System · UI/UX · Prototipação · Photoshop · Illustrator |
 | **IA** | Claude Code · Codex · Cursor · ChatGPT · Gemini · Figma AI · Google Stitch · MCP |
 
