@@ -12,13 +12,13 @@
 
 ---
 
-Trabalho com tecnologia e design há mais de 10 anos. Comecei ensinando HTML, CSS, JavaScript, Photoshop e Illustrator, coordenei a equipe pedagógica de uma escola de tecnologia e, desde 2019, desenvolvo produtos de ponta a ponta: interface, front-end, back-end, banco de dados e infraestrutura.
+Mais de 10 anos entre tecnologia e design. Desenvolvo produtos de ponta a ponta: interface, front-end, back-end, banco de dados e infraestrutura.
 
-Por mais de 5 anos fundei e liderei projetos de jogos online multiplayer, com equipes de até 10 pessoas. Ali eu fazia a liderança técnica e ao mesmo tempo programava o back-end, o front-end e as ferramentas web. Hoje, na Trade Arena (plataforma de competições de trading), desenho a experiência no Figma e implemento no front-end em Angular.
+Hoje, na Trade Arena (plataforma de competições de trading), cuido do design de produto, do design system e do front-end em Angular. Antes, liderei por mais de 5 anos projetos de jogos online multiplayer, com equipes de até 10 pessoas.
 
 ### Como eu trabalho com IA
 
-Uso agentes de IA no dia a dia: **Claude Code, Codex e Cursor** no código, **Figma AI e Google Stitch** no design, e MCP para automatizar o próprio Figma. Antes de pedir código eu escrevo a especificação, e depois reviso cada diff, testo e cuido de segurança e performance. Assino o que vai para produção. A IA acelera, mas a engenharia é minha.
+**Claude Code, Codex e Cursor** no código, **Figma AI, Google Stitch e MCP** no design. Escrevo a especificação antes e reviso cada diff depois: a IA acelera, mas a responsabilidade pelo que vai para produção é minha.
 
 ### Stack
 
@@ -28,15 +28,14 @@ Uso agentes de IA no dia a dia: **Claude Code, Codex e Cursor** no código, **Fi
 
 | | |
 |---|---|
-| **Front-end** | Angular · React · Next.js · TypeScript · RxJS/Signals · SCSS · Tailwind |
-| **Back-end** | Java/Spring Boot · Node.js · APIs REST · Lua · PHP |
-| **Dados & Infra** | PostgreSQL · MySQL · Supabase · Docker · AWS · Google Cloud · Vercel · CI/CD |
-| **Design** | Figma · Design System · UI/UX · Prototipação · Photoshop · Illustrator |
-| **IA** | Claude Code · Codex · Cursor · ChatGPT · Gemini · Figma AI · Google Stitch · MCP |
+| **Front-end** | Angular · React · Next.js · TypeScript · SCSS · Tailwind |
+| **Back-end** | Java/Spring Boot · Node.js · APIs REST · Lua |
+| **Dados & Infra** | PostgreSQL · MySQL · Supabase · Docker · AWS · Google Cloud |
+| **Design** | Figma · Design System · UI/UX · Prototipação |
 
 ### Projetos
 
-A maior parte do meu trabalho fica em repositórios privados de empresa e de clientes (é daí que vem o gráfico de contribuições). Projetos abertos novos estão chegando por aqui.
+A maior parte do meu trabalho fica em repositórios privados de empresa e de clientes. Projetos abertos novos estão chegando por aqui.
 
 ---
 
