@@ -1,8 +1,8 @@
 <h1>Daniel Pego</h1>
 
 <p>
-  <strong>Desenvolvedor Full Stack &amp; Product Designer</strong> · do Figma ao deploy<br>
-  Belo Horizonte, MG · Atualmente na <a href="https://www.tradearena.app">Trade Arena</a>
+  <strong>Analista de Dados &amp; Desenvolvedor Python</strong> · SQL, Power BI e automação de processos<br>
+  Belo Horizonte, MG
 </p>
 
 <p>
@@ -12,30 +12,34 @@
 
 ---
 
-Mais de 10 anos entre tecnologia e design. Desenvolvo produtos de ponta a ponta: interface, front-end, back-end, banco de dados e infraestrutura.
+Mais de 10 anos em tecnologia. Trabalho com o ciclo completo do dado: extração e tratamento com SQL e Python, modelagem no Snowflake, dashboards no Power BI e automação de rotinas que antes eram manuais.
 
-Hoje, na Trade Arena (plataforma de competições de trading), cuido do design de produto, do design system e do front-end em Angular. Antes, liderei por mais de 5 anos projetos de jogos online multiplayer, com equipes de até 10 pessoas.
-
-### Como eu trabalho com IA
-
-**Claude Code, Codex e Cursor** no código, **Figma AI, Google Stitch e MCP** no design. Escrevo a especificação antes e reviso cada diff depois: a IA acelera, mas a responsabilidade pelo que vai para produção é minha.
+Como freelancer, desenvolvi análises, painéis de indicadores comerciais e financeiros e automações para empresas de varejo e e-commerce, marketing e vendas e pequenas e médias empresas.
 
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,nodejs,java,spring,lua,postgres,mysql,supabase,docker,aws,gcp,figma,ps,ai&perline=17" alt="Stack" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square">
+  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
 </p>
 
 | | |
 |---|---|
-| **Front-end** | Angular · React · Next.js · TypeScript · SCSS · Tailwind |
-| **Back-end** | Java/Spring Boot · Node.js · APIs REST · Lua |
-| **Dados & Infra** | PostgreSQL · MySQL · Supabase · Docker · AWS · Google Cloud |
-| **Design** | Figma · Design System · UI/UX · Prototipação |
+| **Dados** | SQL · Snowflake · PostgreSQL · MySQL · SQL Server · Modelagem de dados |
+| **Python** | Pandas · NumPy · ETL · Automação de processos · Integração com APIs |
+| **BI** | Power BI · DAX · Power Query · Excel avançado · Storytelling com dados |
+| **IA** | Claude · ChatGPT · Cursor, aplicados à análise e à automação |
 
 ### Projetos
 
-A maior parte do meu trabalho fica em repositórios privados de empresa e de clientes. Projetos abertos novos estão chegando por aqui.
+A maior parte do meu trabalho fica em repositórios privados de clientes. Projetos abertos de análise de dados estão chegando por aqui.
 
 ---
 
