@@ -2,7 +2,7 @@
 
 <p>
   <strong>Analista de Dados &amp; Desenvolvedor Python</strong> · SQL, Power BI e automação de processos<br>
-  Belo Horizonte, MG
+  Belo Horizonte, MG · Atualmente na <a href="https://www.tradearena.app">Trade Arena</a>
 </p>
 
 <p>
