@@ -12,9 +12,9 @@
 
 ---
 
-Mais de 10 anos em tecnologia. Trabalho com o ciclo completo do dado: extração e tratamento com SQL e Python, modelagem no Snowflake, dashboards no Power BI e automação de rotinas que antes eram manuais.
+Mais de 10 anos em tecnologia, entre análise de dados, desenvolvimento de sistemas e design de produto. Trabalho com o ciclo completo do dado: extração e tratamento com SQL e Python, dashboards no Power BI, consultas no Snowflake e automação de rotinas que antes eram manuais.
 
-Como freelancer, desenvolvi análises, painéis de indicadores comerciais e financeiros e automações para empresas de varejo e e-commerce, marketing e vendas e pequenas e médias empresas.
+Como freelancer, fiz painéis de indicadores, consultas e automações para pequenas e médias empresas, e também sites e sistemas. Tive ainda uma empresa própria de jogos online, onde desenvolvi, desenhei as interfaces e acompanhei os números de jogadores e receita.
 
 ### Stack
 
@@ -36,6 +36,7 @@ Como freelancer, desenvolvi análises, painéis de indicadores comerciais e fina
 | **Python** | Pandas · NumPy · ETL · Automação de processos · Integração com APIs |
 | **BI** | Power BI · DAX · Power Query · Excel avançado · Storytelling com dados |
 | **IA** | Claude · ChatGPT · Cursor, aplicados à análise e à automação |
+| **Também** | React · Angular · Node.js · Lua · Figma (UI/UX) |
 
 ### Projetos
 
