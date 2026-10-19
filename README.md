@@ -14,7 +14,7 @@
 
 Mais de 10 anos em tecnologia, entre análise de dados, desenvolvimento de sistemas e design de produto. Trabalho com o ciclo completo do dado: extração e tratamento com SQL e Python, dashboards no Power BI, consultas no Snowflake e automação de rotinas que antes eram manuais.
 
-Como freelancer, fiz painéis de indicadores, consultas e automações para pequenas e médias empresas, e também sites e sistemas. Também mantive um projeto próprio de jogos online, onde desenvolvi, desenhei as interfaces e acompanhei os números de jogadores e receita.
+Como freelancer, fiz painéis de indicadores, consultas e automações para pequenas e médias empresas, além de sistemas web e interfaces (UI/UX). Fundei e liderei servidores de jogos online, onde desenvolvi, desenhei as interfaces e acompanhei os números de jogadores e receita.
 
 ### Stack
 
